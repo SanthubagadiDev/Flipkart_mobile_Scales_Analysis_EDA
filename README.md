@@ -65,7 +65,7 @@ The scraped dataset contains the following attributes:
 
 ### 3️⃣ Exploratory Data Analysis
 
-#### 🔹 Univariate Analysis
+## 🔹 Univariate Analysis
 Analyzed individual variables to understand distributions.
 
 Examples:
@@ -74,19 +74,20 @@ Examples:
 - Brand frequency
 - Ratings distribution
 
-#### 🔹 Bivariate Analysis
+## 🔹 Bivariate Analysis
 Studied relationships between two variables.
 
 Examples:
 - Price vs Ratings
 - RAM vs Price
 - Brand vs Average Price
-
-#### 🔹 Multivariate Analysis
-## Correlation Analysis
+---
+## 🔹 Multivariate Analysis
+### Correlation Analysis
 
 <img src="Screenshot 2026-03-13 161946.png" width="700">
 
+A correlation heatmap was created to analyze relationships between multiple numerical variables such as price, RAM, ROM, ratings, and reviews. The heatmap helps identify how strongly different features are related to each other. For example, selling price has a strong correlation with original price, and the number of ratings is highly correlated with the number of reviews.
 
 ---
 
