@@ -71,8 +71,7 @@ The scraped dataset contains the following attributes:
 ## 🔹 Bivariate Analysis
 ### Bar Chart
 
-<img src="
-Screenshot 2026-03-13 161830.png" width="700">
+<img src="Screenshot 2026-03-13 161830.png" width="700">
 
 A bar chart was created to compare the most expensive mobile model for each brand. This visualization helps analyze how selling price varies across different brands and identify which brand offers the highest priced smartphone.
 
