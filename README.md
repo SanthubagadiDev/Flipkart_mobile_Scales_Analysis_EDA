@@ -66,21 +66,16 @@ The scraped dataset contains the following attributes:
 ### 3️⃣ Exploratory Data Analysis
 
 ## 🔹 Univariate Analysis
-Analyzed individual variables to understand distributions.
 
-Examples:
-- Price distribution
-- RAM distribution
-- Brand frequency
-- Ratings distribution
 
 ## 🔹 Bivariate Analysis
-Studied relationships between two variables.
+### Bar Chart
 
-Examples:
-- Price vs Ratings
-- RAM vs Price
-- Brand vs Average Price
+<img src="
+Screenshot 2026-03-13 161830.png" width="700">
+
+A bar chart was created to compare the most expensive mobile model for each brand. This visualization helps analyze how selling price varies across different brands and identify which brand offers the highest priced smartphone.
+
 ---
 ## 🔹 Multivariate Analysis
 ### Correlation Analysis
