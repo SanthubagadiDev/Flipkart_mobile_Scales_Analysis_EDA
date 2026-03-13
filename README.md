@@ -131,7 +131,7 @@ A bar chart was created to compare the most expensive mobile model for each bran
 ---
 ## 🔹 Multivariate Analysis
 
-<img src="Screenshot 2026-03-13 161911.png" width="700">
+<img src="Screenshot 2026-03-13 161911.png" width="900">
 
 ### Correlation Analysis
 
