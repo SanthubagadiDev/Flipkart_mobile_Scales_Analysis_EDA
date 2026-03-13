@@ -85,7 +85,7 @@ Examples:
 #### 🔹 Multivariate Analysis
 ## Correlation Analysis
 
-<img src="https://github.com/SanthubagadiDev/Flipkart_mobile_Scales_Analysis_EDA/blob/main/Screenshot%202026-03-13%20161557.png" width="700">
+<img src="[https://github.com/SanthubagadiDev/Flipkart_mobile_Scales_Analysis_EDA/blob/main/Screenshot%202026-03-13%20161557.png](https://github.com/SanthubagadiDev/Flipkart_mobile_Scales_Analysis_EDA/blob/main/Screenshot%202026-03-13%20161946.png?raw=true)" width="700">
 
 
 ---
