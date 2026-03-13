@@ -99,6 +99,3 @@ Examples:
 - Some brands offer **better specifications at competitive prices**.
 - Most mobile phones maintain **high ratings above 4.0**.
 
----
-
-## 📂 Repository Structure
