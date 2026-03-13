@@ -83,12 +83,10 @@ Examples:
 - Brand vs Average Price
 
 #### 🔹 Multivariate Analysis
-Analyzed multiple variables together.
+## Correlation Analysis
 
-Examples:
-- Brand + RAM + Price
-- RAM + ROM + Ratings
-- Correlation between numeric features
+<img src="https://github.com/SanthubagadiDev/Flipkart_mobile_Scales_Analysis_EDA/blob/main/Screenshot%202026-03-13%20161557.png" width="700">
+
 
 ---
 
