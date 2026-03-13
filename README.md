@@ -67,8 +67,6 @@ The scraped dataset contains the following attributes:
 
 ## 🔹 Univariate Analysis
 
-<img src="Screenshot 2026-03-13 161649.png" width="700">
-
 ## 📊 RAM Distribution
 
 This chart shows the distribution of mobile phone models based on their **RAM capacity** in the dataset.
@@ -108,7 +106,8 @@ This chart illustrates the distribution of **internal storage (ROM)** among the 
 - **🔹 Rare Storage Segments:**  
   - **64 GB (3.3%)** – Becoming increasingly rare and mostly found in **budget smartphones**.  
   - **512 GB (0.4%)** – Extremely rare in this dataset and typically available only in **ultra-premium flagship devices**.
-
+### pie chart
+<img src="Screenshot 2026-03-13 161649.png" width="700">
 ---
 
 ## 📈 Summary
@@ -131,6 +130,9 @@ A bar chart was created to compare the most expensive mobile model for each bran
 
 ---
 ## 🔹 Multivariate Analysis
+
+<img src="Screenshot 2026-03-13 161911.png" width="700">
+
 ### Correlation Analysis
 
 <img src="Screenshot 2026-03-13 161946.png" width="700">
