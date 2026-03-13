@@ -67,7 +67,61 @@ The scraped dataset contains the following attributes:
 
 ## 🔹 Univariate Analysis
 
+<img src="Screenshot 2026-03-13 161649.png" width="700">
 
+## 📊 RAM Distribution
+
+This chart shows the distribution of mobile phone models based on their **RAM capacity** in the dataset.
+
+### Key Insights
+
+- **🔹 Dominant Choice:**  
+  **8 GB RAM** is the most common configuration, representing **64.2%** of all devices.  
+  This indicates that **8 GB has become the standard RAM configuration** for most smartphones.
+
+- **🔹 Mid-Range Segment:**  
+  - **12 GB RAM:** 12.5%  
+  - **6 GB RAM:** 12.4%  
+
+  These configurations represent the **upper-mid and lower-mid smartphone segments**.
+
+- **🔹 Extreme Segments:**  
+  - **4 GB RAM (9.6%)** – Typically found in **budget or entry-level smartphones**.  
+  - **16 GB RAM (1.3%)** – A very small portion of the dataset, usually present in **high-end flagship or gaming smartphones**.
+
+---
+
+## 💾 ROM Distribution
+
+This chart illustrates the distribution of **internal storage (ROM)** among the mobile phones in the dataset.
+
+### Key Insights
+
+- **🔹 Majority Storage Option:**  
+  **128 GB** is the most common storage capacity, accounting for **52.5%** of the phones.
+
+- **🔹 Premium Standard:**  
+  **256 GB** follows closely with **43.8%** of the models.
+
+  Together, **128 GB and 256 GB storage make up more than 96% of the dataset**, indicating that modern smartphones have largely standardized around these two storage capacities.
+
+- **🔹 Rare Storage Segments:**  
+  - **64 GB (3.3%)** – Becoming increasingly rare and mostly found in **budget smartphones**.  
+  - **512 GB (0.4%)** – Extremely rare in this dataset and typically available only in **ultra-premium flagship devices**.
+
+---
+
+## 📈 Summary
+
+| Feature | Most Common Value | Percentage |
+|-------|------------------|-----------|
+| RAM | 8 GB | 64.2% |
+| Storage (ROM) | 128 GB | 52.5% |
+| Premium Storage | 256 GB | 43.8% |
+
+These distributions highlight how **modern smartphones are converging toward standardized hardware configurations**, particularly **8 GB RAM and 128–256 GB storage**.
+
+---
 ## 🔹 Bivariate Analysis
 ### Bar Chart
 
