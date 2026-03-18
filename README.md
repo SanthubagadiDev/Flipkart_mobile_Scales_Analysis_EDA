@@ -1,6 +1,6 @@
 # 📱 Flipkart Mobile Sales Analysis
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Python](https://img.shields.io/badge/Python-3-blue)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-BeautifulSoup-green)
 ![EDA](https://img.shields.io/badge/Data%20Analysis-EDA-orange)
 ![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
